@@ -7,10 +7,11 @@
   "license": "MIT",
   "dependencies": {
     "bing-translate-api": "^2.5.0",
+    "cors": "^2.8.5",
     "express": "^4.17.3",
     "google-translate-api": "^2.3.0"
   },
-  "scripts":{
-    "start":"node index"
+  "scripts": {
+    "start": "node index"
   }
 }
